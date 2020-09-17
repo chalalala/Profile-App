@@ -88,7 +88,7 @@ export default function App() {
       <View style={styles.footer}>
         <Feather name="log-out" size={24} color={LIGHT_GRAY_COLOR} />
         <MaterialIcons name="add-circle-outline" size={27} color={LIGHT_GRAY_COLOR} />
-        <MaterialIcons name="person-outline" size={24} color={LIGHT_GRAY_COLOR} />
+        <MaterialIcons name="person-outline" size={27} color={LIGHT_GRAY_COLOR} />
       </View>
     </View>
   );
