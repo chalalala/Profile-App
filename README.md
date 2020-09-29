@@ -17,4 +17,4 @@ A profile app built with **React Native** and **Expo**
 - Button `Follow` and `Send Message` can press and alert `followed` when press follow button, alert `message sended` when press on send message button
 
 ## Demo
-<img src="https://media3.giphy.com/media/D1R52ta7TolQu8Ck4d/giphy.gif" width="500px">
+<img src="https://media0.giphy.com/media/cKKpHeUc9SC5OCFpIn/giphy.gif" width="500px">
